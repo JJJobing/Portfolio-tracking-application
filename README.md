@@ -6,24 +6,19 @@ Vermogensbeheer Assignment A.S.R.
 This project is a command-line portfolio tracker that allows the user to build, analyse, and simulate a financial portfolio. The application supports editing the portfolio, computing analytics, running Monte Carlo forecasting, plotting volatility, and generating a correlation matrix.
 The structure of the MVC architecture is:
 
-portfolio_tracker/
-│
-├── main.py
-├── controller/
-│   ├── main_controller.py
-│   ├── mc_controller.py
-│
-├── model/
-│   ├── portfolio.py
-│
-├── view/
-│   ├── display.py
-│   ├── mc_view.py
-│
-├── data/
-│   └── portfolio.csv
-│
-└── requirements.txt
+portfolio_tracker
+  - main.py
+  - controller
+    - main_controller.py
+    - mc_controller.py
+  - model
+    - portfolio.py
+  - view
+    - display.py
+    - mc_view.py
+  - data
+    - portfolio.csv
+  - requirements.txt
 
 
 The application can be opened using a CLI. By typing "python3 -m main" the application is opened and the user can use it. The dependicies for the application are given in the requirements.txt file. 
