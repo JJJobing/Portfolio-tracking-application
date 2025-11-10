@@ -1,7 +1,10 @@
 # Portfolio-tracking-application
-Portfolio management CLI application made with Python3
+Portfolio management CLI application Assignment A.S.R.. Made with Python3.
 
-Vermogensbeheer Assignment A.S.R.
+Job Jobing
+06-23251006
+jobjobing@hotmail.com
+
 
 This project is a command-line portfolio tracker that allows the user to build, analyse, and simulate a financial portfolio. The application supports editing the portfolio, computing analytics, running Monte Carlo forecasting, plotting volatility, and generating a correlation matrix.
 The structure of the MVC architecture is:
