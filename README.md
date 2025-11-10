@@ -2,7 +2,9 @@
 Portfolio management CLI application Assignment A.S.R.. Made with Python3.
 
 Job Jobing
+
 06-23251006
+
 jobjobing@hotmail.com
 
 
