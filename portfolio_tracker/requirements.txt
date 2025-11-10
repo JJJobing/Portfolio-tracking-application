@@ -1,0 +1,9 @@
+The following dependencies and packages are used for the application 
+
+yfinance
+pandas
+matplotlib
+numpy
+pathlib
+scipy
+datetime
